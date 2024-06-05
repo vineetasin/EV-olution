@@ -18,9 +18,7 @@ const Hero = ({
       </div>
 
       <div className="flex items-center gap-[48px] w-fit mt-[70px] pl-[30px] rounded-[60px] bg-white cursor-pointer">
-        <p className="text-[#292929] text-[20px] font-medium ">
-          Explore the features
-        </p>
+        <p className="text-[#292929] text-[20px] font-medium ">Explore Now</p>
         <img src={arrow_btn} alt="Arrow Button" />
       </div>
 
